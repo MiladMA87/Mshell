@@ -18,7 +18,7 @@ A small, dependency-free terminal written in pure Python. It has the everyday fi
 ## Requirements
 
 - Python 3.8 or newer
-- Developed and tested on Linux. Windows and macOS are supported by the code, but less tested.
+- Tested on Windows and Linux.
 
 ## Run
 
