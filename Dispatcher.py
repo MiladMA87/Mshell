@@ -3,9 +3,9 @@ from Commands import CommandsDict
 
 def get_help():
     for key, guide in CommandsDict.items():
-        print(f"\t{key}\t->\t{guide['description']}")
-    print("\thelp\t->\tShow this list")
-    print("\texit\t->\tClose the terminal")
+        print(f"\t{key}\t\t->\t{guide['description']}")
+    print("\thelp\t\t->\tShow this list")
+    print("\texit\t\t->\tClose the terminal")
 
 
 def run_argv(argv):
