@@ -6,6 +6,7 @@ A small, dependency-free terminal written in pure Python. It has the everyday fi
 
 ![demo](docs/demo.png)
 
+
 ## Features
 
 - File and folder commands: `ls`, `cd`, `mkdir`, `cp`, `rm`, `tree`, `find` and more
@@ -20,13 +21,36 @@ A small, dependency-free terminal written in pure Python. It has the everyday fi
 - Python 3.8 or newer
 - Tested on Windows and Linux.
 
-## Run
+## Getting started
+
+**1. Check that Python is installed**
+
+```
+python --version
+```
+
+On Linux and macOS the command is usually `python3 --version`. If Python is missing, download it from [python.org](https://www.python.org/downloads/).
+
+**2. Clone the project**
+
+```
+git clone https://github.com/MiladMA87/Mshell.git
+cd Mshell
+```
+
+No Git? On the [repository page](https://github.com/MiladMA87/Mshell) click **Code → Download ZIP**, extract it, and open a terminal inside the extracted folder.
+
+**3. Run it**
 
 ```
 python Terminal.py
 ```
 
-Type `help` to list all commands and `exit` to quit.
+On Linux and macOS use `python3 Terminal.py`.
+
+There is nothing to install: the project only uses the Python standard library. Type `help` to list all commands and `exit` to quit.
+
+> To use remote mode, clone the project on **every** machine involved (the one you control from and the ones you want to control).
 
 ## Commands
 
