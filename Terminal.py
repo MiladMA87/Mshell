@@ -9,7 +9,7 @@ if __name__ == "__main__":
 
     while True:
         try:
-            command = shlex.split(input(">--> "))
+            command = input(">--> ").split(' ')
         except (EOFError, KeyboardInterrupt):
             print("\ngoodbye bro...")
             break
