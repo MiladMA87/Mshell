@@ -38,8 +38,6 @@ git clone https://github.com/MiladMA87/Mshell.git
 cd Mshell
 ```
 
-No Git? On the [repository page](https://github.com/MiladMA87/Mshell) click **Code → Download ZIP**, extract it, and open a terminal inside the extracted folder.
-
 **3. Run it**
 
 ```
