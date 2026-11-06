@@ -4,7 +4,7 @@ A small, dependency-free terminal written in pure Python. It has the everyday fi
 
 > **Educational project.** The remote mode is built for a trusted home network. See [Security](#security) before using it.
 
-<!-- Add a screenshot or GIF here, e.g. ![demo](docs/demo.gif) -->
+![demo](docs/demo.png)
 
 ## Features
 
@@ -152,4 +152,4 @@ Internet/
 
 ## License
 
-MIT. Add a `LICENSE` file to the repository.
+MIT License. See the [LICENSE](LICENSE) file.
